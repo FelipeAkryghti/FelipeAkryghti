@@ -1,3 +1,3 @@
-### Hey there, nice to meet you!!! 😊
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, nice to meet you!!!</h1>
 
+<p>Welcome to my README! </br> I'm Felipe, a Software Engineer student from Philadelphia University Center - UniFil.  <b>I was born in Cuiabá, Brazil <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/></b>, but I'm currently living in  <b>Londrina, Brazil</b> <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/> . </p>
