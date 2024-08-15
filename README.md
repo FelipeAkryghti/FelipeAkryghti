@@ -7,11 +7,12 @@
 
 <p>Welcome to my README! </br> I'm Felipe, a Software Engineer student from Philadelphia University Center - UniFil. <b>I was born in Cuiabá, Brazil <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/></b>, but I'm currently living in  <b>Londrina, Brazil</b> <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/> . </p>
 
-
-<div>
-    <a href="https://github.com/FelipeAkryghti"></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAkryghti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAkryghti&layout=compact&langs_count=16&theme=github_dark"/>
+<div style="text-align: center;" align="center">
+  <br>
+    <a href="https://github.com/FelipeAkryghti"><img  src="https://github-readme-stats.vercel.app/api?username=FelipeAkryghti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0000FF&text_color=FFF&border_radius=3&border_color=0000FF&icon_color=0000FF&theme=jolly" height="150" alt="GitHub stats"></a>
+    
+<a href="https://github.com/FelipeAkryghti/github-readme-stats">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAkryghti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=25&width=290&hide=issues&bg_color=000&title_color=0000FF&text_color=FFF&border_radius=3&border_color=0000FF&icon_color=0000FF&theme=jolly" height="150" alt="GitHub stats" </a>
 </div>
 <div style="display: inline-block;"><br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
