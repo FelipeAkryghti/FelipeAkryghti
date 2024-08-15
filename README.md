@@ -3,7 +3,7 @@
 <p>Welcome to my README! </br> I'm Felipe, a Software Engineer student from Philadelphia University Center - UniFil. <b>I was born in Cuiabá, Brazil <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/></b>, but I'm currently living in  <b>Londrina, Brazil</b> <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/> . </p>
 
 
-<div style="display: flex;">
+<div style="display: flex;"><br>
     <a href="https://github.com/FelipeAkryghti"></a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAkryghti&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAkryghti&layout=compact&langs_count=16&theme=neon"/>
