@@ -24,4 +24,4 @@
 </div>&nbsp;&nbsp;
 
  ![snake_gif](https://github.com/FelipeAkryghti/FelipeAkryghti/blob/output/github-contribution-grid-snake.svg)
- [![readme](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAkryghti&repo=FelipeAkryghti&theme=react)](https://github.com/FelipeAkryghti)
+
