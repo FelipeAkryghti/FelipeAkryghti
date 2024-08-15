@@ -20,8 +20,8 @@
 <a href="https://www.instagram.com/felipecaldeira__/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:felipe.akryghti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/felipe-caldeira-akryghti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/FelipeAkryghti/FelipeAkryghti/blob/output/github-contribution-grid-snake.svg)
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAkryghti&repo=FelipeAkryghti&theme=react)](https://github.com/FelipeAkryghti)
-    
+<a href="https://www.linkedin.com/in/felipe-caldeira-akryghti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>&nbsp;&nbsp;
+
+ ![Snake animation](https://github.com/FelipeAkryghti/FelipeAkryghti/blob/output/github-contribution-grid-snake.svg)
+ [![readme](https://github-readme-stats.vercel.app/api/pin/?username=FelipeAkryghti&repo=FelipeAkryghti&theme=react)](https://github.com/FelipeAkryghti)
