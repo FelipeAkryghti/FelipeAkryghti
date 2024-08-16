@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+😎+Hey+there,+nice+to+meet+you!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
-<p align="center">________________________________________________________________________________________________________________________________________________________</p>
+<p align="center">__________________________________________________________________________________________________________________________________________________</p>
 
 
 <p>Welcome to my README! </br> I'm Felipe, a Software Engineer student from Philadelphia University Center - UniFil. <b>I was born in Cuiabá, Brazil <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/></b>, but I'm currently living in  <b>Londrina, Brazil</b> <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/> . </p>
@@ -21,7 +21,7 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
-<p align="center">________________________________________________________________________________________________________________________________________________________</p>
+<p align="center">__________________________________________________________________________________________________________________________________________________</p>
 
 <div align="center">
   <h3>Contact Me</h3>
@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/felipe-caldeira-akryghti/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0060FF&color:FFF" alt=""></a> 
 </div>
 
-<p align="center">________________________________________________________________________________________________________________________________________________________</p>
+<p align="center">__________________________________________________________________________________________________________________________________________________</p>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeAkryghti/FelipeAkryghti/output/github-contribution-grid-snake-dark.svg">
