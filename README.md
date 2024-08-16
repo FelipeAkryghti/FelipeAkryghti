@@ -9,7 +9,7 @@
 
 <div style="text-align: center;" align="center">
   <br>
-    <a href="https://github.com/FelipeAkryghti"><img  src="https://github-readme-stats.vercel.app/api?username=FelipeAkryghti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0000FF&text_color=FFF&border_radius=3&border_color=0000FF&icon_color=0000FF&theme=jolly" height="150" alt="GitHub stats"></a>
+    <a href="https://github.com/FelipeAkryghti"><img  src="https://github-readme-stats.vercel.app/api?username=FelipeAkryghti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0060FF&text_color=FFF&border_radius=3&border_color=0060FF&icon_color=0060FF&theme=jolly" height="150" alt="GitHub stats"></a>
     
 <a href="https://github.com/FelipeAkryghti/github-readme-stats">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAkryghti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=25&width=290&hide=issues&bg_color=000&title_color=0000FF&text_color=FFF&border_radius=3&border_color=0000FF&icon_color=0000FF&theme=jolly" height="150" alt="GitHub stats" </a>
