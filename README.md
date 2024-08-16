@@ -12,7 +12,7 @@
     <a href="https://github.com/FelipeAkryghti"><img  src="https://github-readme-stats.vercel.app/api?username=FelipeAkryghti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0060FF&text_color=FFF&border_radius=3&border_color=0060FF&icon_color=0060FF&theme=jolly" height="150" alt="GitHub stats"></a>
     
 <a href="https://github.com/FelipeAkryghti/github-readme-stats">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAkryghti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=25&width=290&hide=issues&bg_color=000&title_color=0000FF&text_color=FFF&border_radius=3&border_color=0000FF&icon_color=0000FF&theme=jolly" height="150" alt="GitHub stats" </a>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAkryghti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=25&width=290&hide=issues&bg_color=000&title_color=0060FF&text_color=FFF&border_radius=3&border_color=0060FF&icon_color=0060FF&theme=jolly" height="150" alt="GitHub stats" </a>
 </div>
 <div style="display: inline-block;"><br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -23,9 +23,9 @@
 </div><br>
 
 <div> 
-  <a href="mailto:felipe.akryghti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=0000FF&color:FFF" alt=""></a>
-  <a href="https://www.instagram.com/felipecaldeira__/?next=%2F"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0000FF&color:FFF" alt=""></a>
-  <a href="https://www.linkedin.com/in/felipe-caldeira-akryghti/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000FF&color:FFF" alt=""></a> 
+  <a href="mailto:felipe.akryghti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=0060FF&color:FFF" alt=""></a>
+  <a href="https://www.instagram.com/felipecaldeira__/?next=%2F"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0060FF&color:FFF" alt=""></a>
+  <a href="https://www.linkedin.com/in/felipe-caldeira-akryghti/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0060FF&color:FFF" alt=""></a> 
 </div>&nbsp;&nbsp;
 
 <picture align="center">
