@@ -13,16 +13,21 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      # Adicionado -sSL para seguir redirecionamentos e -o para salvar corretamente
-      # Trocado o ' por %27 no custom_title
+      # Usa a Action oficial da comunidade para gerar o SVG localmente (não depende do site fora do ar)
       - name: Generate GitHub Stats SVG
-        run: |
-          curl -sSL "https://github-readme-stats.vercel.app/api?username=FelipeAkryghti&custom_title=Felipe%20Akryghti%27s%20GitHub%20Stats&bg_color=0a111a&title_color=61bdf2&icon_color=61bdf2&text_color=ffffff&show_icons=true&hide_border=true&count_private=true" -o github-metrics.svg
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          # Aqui estão as suas cores e o seu usuário configurados:
+          options: "username=FelipeAkryghti&custom_title=Felipe%20Akryghti's%20GitHub%20Stats&bg_color=0a111a&title_color=61bdf2&icon_color=61bdf2&text_color=ffffff&show_icons=true&hide_border=true&count_private=true"
+          path: "github-metrics.svg"
+          token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Salva a imagem gerada de volta no repositório
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update GitHub stats SVG layout"
+          commit_message: "chore: update GitHub stats SVG"
           file_pattern: "github-metrics.svg"
