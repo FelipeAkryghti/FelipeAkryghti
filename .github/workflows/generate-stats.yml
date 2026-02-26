@@ -15,12 +15,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # Gera o novo layout e salva por cima do seu 'github-metrics.svg'
+      # Adicionado -sSL para seguir redirecionamentos e -o para salvar corretamente
+      # Trocado o ' por %27 no custom_title
       - name: Generate GitHub Stats SVG
         run: |
-          curl "https://github-readme-stats.vercel.app/api?username=FelipeAkryghti&custom_title=Felipe%20Akryghti's%20GitHub%20Stats&bg_color=0a111a&title_color=61bdf2&icon_color=61bdf2&text_color=ffffff&show_icons=true&hide_border=true&count_private=true" > github-metrics.svg
+          curl -sSL "https://github-readme-stats.vercel.app/api?username=FelipeAkryghti&custom_title=Felipe%20Akryghti%27s%20GitHub%20Stats&bg_color=0a111a&title_color=61bdf2&icon_color=61bdf2&text_color=ffffff&show_icons=true&hide_border=true&count_private=true" -o github-metrics.svg
 
-      # Faz o commit da alteração de volta para o repositório
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
