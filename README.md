@@ -1,8 +1,6 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+😎+Hey+there,+nice+to+meet+you!+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=524&lines=⊹+😎+Hey+there,+nice+to+meet+you!+⊹" />
+</p>
 <hr>
 
 <p>Welcome to my README! </br> I'm Felipe, a Software Engineer student from Philadelphia University Center - UniFil. <b>I was born in Cuiabá, Brazil <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/></b>, but I'm currently living in  <b>Londrina, Brazil</b> <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/> . </p>
@@ -23,6 +21,11 @@
       alt="Top languages">
   </a>
 </div>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeAkryghti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeAkryghti&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
 <div style="display: inline-block;" align="center"><br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
