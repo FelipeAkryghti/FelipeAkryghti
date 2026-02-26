@@ -4,7 +4,6 @@
   </a>
 </div>
 <hr>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeAkryghti&show_icons=true&theme=github_dark" />
 
 <p>Welcome to my README! </br> I'm Felipe, a Software Engineer student from Philadelphia University Center - UniFil. <b>I was born in Cuiabá, Brazil <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/></b>, but I'm currently living in  <b>Londrina, Brazil</b> <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/> . </p>
 
