@@ -6,25 +6,8 @@
 <p>Welcome to my README! </br> I'm Felipe, a Software Engineer student from Philadelphia University Center - UniFil. <b>I was born in Cuiabá, Brazil <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/></b>, but I'm currently living in  <b>Londrina, Brazil</b> <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/> . </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FelipeAkryghti/FelipeAkryghti/main/metrics.svg" />
+  <img src="https://raw.githubusercontent.com/FelipeAkryghti/FelipeAkryghti/main/github-metrics.svg" />
 </p>
-
-<div style="text-align: center;" align="center">
-  <br>
-  <a href="https://github.com/FelipeAkryghti">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=FelipeAkryghti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0060FF&text_color=FFF&border_radius=3&border_color=0060FF&icon_color=0060FF" 
-      height="150" 
-      alt="GitHub stats">
-  </a>
-    
-  <a href="https://github.com/FelipeAkryghti/github-readme-stats">
-    <img  
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAkryghti&layout=compact&theme=github_dark&include_all_commits=true&count_private=true&line_height=25&bg_color=000&title_color=0060FF&text_color=FFF&border_radius=3&border_color=0060FF&icon_color=0060FF" 
-      height="150" 
-      alt="Top languages">
-  </a>
-</div>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeAkryghti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
