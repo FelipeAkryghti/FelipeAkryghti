@@ -9,18 +9,12 @@
   <img src="https://raw.githubusercontent.com/FelipeAkryghti/FelipeAkryghti/main/github-metrics.svg" />
 </p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeAkryghti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeAkryghti&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
 <div style="display: inline-block;" align="center"><br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 <hr>
-
-
 
 <div align="center">
   <h3>Contact Me</h3>
