@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/FelipeAkryghti/FelipeAkryghti/main/github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/FelipeAkryghti/FelipeAkryghti/main/top-langs.svg" />
 </p>
 
 <div style="display: inline-block;" align="center"><br>
