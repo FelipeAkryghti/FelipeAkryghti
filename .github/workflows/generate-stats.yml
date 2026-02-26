@@ -8,34 +8,21 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permissão necessária para a Action salvar o arquivo no seu repositório
 
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
+      # Gera o arquivo SVG idêntico ao da imagem, mas com os seus dados
       - name: Generate GitHub Stats SVG
-        uses: lowlighter/metrics@latest
+        run: |
+          curl "https://github-readme-stats.vercel.app/api?username=FelipeAkryghti&custom_title=Felipe%20Akryghti's%20GitHub%20Stats&bg_color=0a111a&title_color=61bdf2&icon_color=61bdf2&text_color=ffffff&show_icons=true&hide_border=true&count_private=true" > generate-metrics.svg
+
+      # Faz o commit automático do arquivo de volta para o seu GitHub
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: FelipeAkryghti
-
-          # tamanho maior
-          style: dark
-          width: 900
-
-          # seções
-          base: header, activity, languages
-          plugin_activity: total_commits, total_prs, total_issues
-          
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_details: percentage
-          plugin_languages_colors: github
-
-          # layout mais largo
-          config_padding: 30
-          config_spacing: 24
-
-          # textos
-          config_title: "Felipe Akryghti · GitHub Stats"
-          config_subtitle: "Software Engineer Student"
+          commit_message: "chore: update GitHub stats SVG"
+          file_pattern: "generate-metrics.svg"
