@@ -15,19 +15,28 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Usa a Action oficial da comunidade para gerar o SVG localmente (não depende do site fora do ar)
+      # 1. Gera o cartão de Estatísticas Principais (o que já estava funcionando)
       - name: Generate GitHub Stats SVG
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          # Aqui estão as suas cores e o seu usuário configurados:
           options: "username=FelipeAkryghti&custom_title=Felipe%20Akryghti's%20GitHub%20Stats&bg_color=0a111a&title_color=61bdf2&icon_color=61bdf2&text_color=ffffff&show_icons=true&hide_border=true&count_private=true"
           path: "github-metrics.svg"
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Salva a imagem gerada de volta no repositório
+      # 2. Gera o cartão de Top Linguagens (NOVO PASSO)
+      - name: Generate Top Languages SVG
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          # Mantendo as mesmas cores e adicionando layout compacto
+          options: "username=FelipeAkryghti&custom_title=Top%20Linguagens&bg_color=0a111a&title_color=61bdf2&text_color=ffffff&hide_border=true&layout=compact&langs_count=8"
+          path: "top-langs.svg"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Salva os DOIS arquivos gerados de volta no repositório
       - name: Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update GitHub stats SVG"
-          file_pattern: "github-metrics.svg"
+          commit_message: "chore: update GitHub stats and top langs SVGs"
+          file_pattern: "*.svg" # O asterisco garante que ele vai salvar tanto o github-metrics.svg quanto o top-langs.svg
