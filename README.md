@@ -5,6 +5,10 @@
 
 <p>Welcome to my README! </br> I'm Felipe, a Software Engineer student from Philadelphia University Center - UniFil. <b>I was born in Cuiabá, Brazil <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/></b>, but I'm currently living in  <b>Londrina, Brazil</b> <img src="https://th.bing.com/th/id/R.6af5b1eb3bab4f016d613b875bc4a7c3?rik=dMLoLEZs42EwKg&pid=ImgRaw&r=0" width="13"/> . </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FelipeAkryghti/FelipeAkryghti/main/metrics.svg" />
+</p>
+
 <div style="text-align: center;" align="center">
   <br>
   <a href="https://github.com/FelipeAkryghti">
